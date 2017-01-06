@@ -1,5 +1,26 @@
-## 動物行為學──行為觀察報告
-You can use the [editor on GitHub](https://github.com/Tzu-ching/Tzu-ching/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 動物行為觀察──黇鹿
+
+日期：105/12/3
+地點：壽山動物園
+物種：黇鹿
+## 物種介紹
+(1)	物種：黇鹿Dana dama 又稱：美國梅花鹿
+(2)	分類：偶蹄目鹿科黇鹿屬
+(3)	體型：公鹿體重約60~85公斤，母鹿約30~50公斤
+(4)	繁殖：10~12月交配
+(5)	壽命：約12年
+(6)	種類：有多種毛色
+(7)	棲地：混雜的林地和開放的草地，一個群集最多可達150頭
+(8)	習性：日行性，群居。除交配期外，通常雌性及幼體成群生活，成年雄性則獨居
+## 行為定義
+	A.吃東西(喝水)：嘴巴有在咀嚼，包括反芻
+(2)	B.抓癢：用腳或角抓身體，或者找樹枝抓癢
+(3)	C.閒晃：站起來走動
+(4)	D.休息：趴在地上，眼睛張開，耳朵有在動
+(5)	E.排泄及排遺：尿尿及大便
+(6)	F.理毛：用舌頭舔舐身上的毛
+(7)	G.望遠凝視：望向一個地方，身體不動
+(8)	H.睡覺：眼睛閉上，趴下完全不動
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
