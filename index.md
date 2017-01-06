@@ -3,8 +3,11 @@
 
 <font size="14pt">
 日期：105/12/03
+
 <font color="red">地點：壽山動物園</font>
+
 物種：黇鹿
+
 </font>
 
 ## 物種介紹
