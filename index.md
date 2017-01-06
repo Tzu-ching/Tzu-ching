@@ -46,6 +46,9 @@ H.睡覺：眼睛閉上，趴下完全不動
 
 
 
+![環境](https://raw.githubusercontent.com/Tzu-ching/Tzu-ching/master/15878264_1182390528548426_1002207565_o.jpg)
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
