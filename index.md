@@ -1,16 +1,14 @@
 
 # 動物行為觀察──黇鹿
-<style>
-#bigfont {
-  font-size: 150%
-}
-</style>
-<div id="bigfont">日期：105/12/03
+
+<span style="font-size:2em;">
+
+日期：105/12/03
 
 地點：壽山動物園
 
 物種：黇鹿
-</div>
+</span>
 
 ## 物種介紹
 
