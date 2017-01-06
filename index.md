@@ -8,7 +8,7 @@
 
 ## 物種介紹
 
-(1) 物種：黇鹿Dana dama 又稱：美國梅花鹿
+(1) 名稱：黇鹿Dana dama 又稱：美國梅花鹿
 
 (2) 分類：偶蹄目鹿科黇鹿屬
 
@@ -44,9 +44,6 @@ G.望遠凝視：望向一個地方，身體不動
 
 H.睡覺：眼睛閉上，趴下完全不動
 
-* 觀察時間10：55至11：12
-
-*觀察時間10：55至11：12
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
