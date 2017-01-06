@@ -3,7 +3,7 @@
 
 <font size="14pt">
 
-日期：105/12/03
+日期：105/12/03<br>
 
 <font color="red">地點：壽山動物園</font>
 
