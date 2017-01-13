@@ -1,6 +1,6 @@
 # 動物行為觀察──黇鹿
 
-![黇鹿](https://raw.githubusercontent.com/Tzu-ching/Tzu-ching/master/15878458_1261809840579905_737563414_o.jpg)
+![黇鹿](https://raw.githubusercontent.com/Tzu-ching/Tzu-ching/master/15878458_1261809840579905_737563414_o.jpg)width=300
 
 <font size="3pt">
 
