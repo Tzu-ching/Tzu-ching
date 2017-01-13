@@ -148,5 +148,7 @@ H.睡覺：眼睛閉上，趴下完全不動<br>
 ## 參考資料
 
 [鹿知識專區](http://deer.tlri.gov.tw/deertw/know/dama_dama.html)
+
 [維基百科](https://zh.wikipedia.org/zh-tw/%E9%BB%87%E9%B9%BF)
+
 [科學人雜誌](http://sa.ylib.com/MagCont.aspx?Unit=newscan&id=2433)
