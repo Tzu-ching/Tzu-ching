@@ -1,7 +1,8 @@
-
 # 動物行為觀察──黇鹿
 
-<font size="6pt">
+![黇鹿](https://raw.githubusercontent.com/Tzu-ching/Tzu-ching/master/15878458_1261809840579905_737563414_o.jpg)
+
+<font size="2pt">
 
 日期：105/12/03<br>
 
@@ -12,6 +13,8 @@
 </font>
 
 ## 物種介紹
+
+<font size="2pt">
 
 (1) 名稱：黇鹿Dana dama 又稱：美國梅花鹿
 
@@ -29,9 +32,17 @@
 
 (8) 習性：日行性，群居。除交配期外，通常雌性及幼體成群生活，成年雄性則獨居
 
+</font>
+
 ## 行為定義
 
+<font size="3pt">
+
 * 觀察時間10：55至11：12
+
+</font>
+
+<font size="2pt">
 
 A.吃東西(喝水)：嘴巴有在咀嚼，包括反芻
 
@@ -49,41 +60,9 @@ G.望遠凝視：望向一個地方，身體不動
 
 H.睡覺：眼睛閉上，趴下完全不動
 
+</font>
 
 
 ![環境](https://raw.githubusercontent.com/Tzu-ching/Tzu-ching/master/15878264_1182390528548426_1002207565_o.jpg)
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tzu-ching/Tzu-ching/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
